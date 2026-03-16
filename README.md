@@ -82,16 +82,12 @@
 ## ✍️ Quote of the Day!
 
 <div align="center">
-  <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=renzgrndz&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## 🤖 Computer Science (CS50 Harvard)
 
-<div align="center">
+<div align="left">
 Programming Languages: 
 </div>
 
@@ -126,23 +122,6 @@ Programming Languages:
 
 </table>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**renzgrndz/renzgrndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2C8DF7&height=120&section=footer&animation=twinkling" width="100%"/>
 
