@@ -4,76 +4,130 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=2C8DF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Renz%F0%9F%91%8B;Data+Engineer+%7C+Electronics+Engineer;Designing+scalable%2C+reliable+data+platforms;AI%2FML+%7C+Operational+Systems" alt="Typing SVG" /></a>
 
-# 💫 About Me:
-Transitioning from Electronics Engineering into Data Engineering by building scalable, production-style data systems grounded in strong computer science fundamentals.
-<br><br>
-Problem<br>Modern systems generate massive volumes of structured and unstructured data, yet many solutions lack proper schema design, pipeline architecture, and performance optimization — leading to unreliable analytics and inefficient decision-making.<br><br>Result<br>I design and build end-to-end data workflows using PostgreSQL and Python — implementing layered schema architectures (staging/core/analytics), ETL pipelines, SQL-based feature engineering, and performance optimization with materialized views. My projects, including a fraud detection system, reflect real-world data engineering practices rather than notebook-only experimentation.<br><br>Mission<br>To evolve into a cloud-ready Data Engineer capable of designing scalable, reliable, and maintainable data platforms that power analytics, machine learning, and operational systems.
+</div>
 
+## 💫 About Me:
+• Data Engineer with an Electronics Engineering background and hands-on experience designing scalable data pipelines, relational database architectures, and production-style ETL workflows. 
+
+• Built an end-to-end fraud detection system using PostgreSQL and Python, implementing multi-layer schema design, feature engineering with advanced SQL, and performance optimization using materialized views. 
+
+• Strong foundation in system architecture, data modeling, and integration engineering. 
+<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renzgranadozo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renzgranadozo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renzgranadozo) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renzgranadozo@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+## 💻 Technical Skills:
+### Systems and Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+### Tools 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+
+### Web Development
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+
+### AI/ML
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+### Operational Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
+
+### Design
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=renzgrndz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=renzgrndz&theme=dark&hide_border=false)<br/>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
+![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+
+---
+
+## 📈 GitHub Stats:
+
+<div align="center">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=renzgrndz&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=renzgrndz&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/>
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renzgrndz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Quote of the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=renzgrndz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### 🤖 Computer Science
+## 🤖 Computer Science (CS50 Harvard)
+
+<div align="center">
+> **hehell**
+</div>
+
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://cs50.harvard.edu/certificates/e7cc8de9-82c0-49ee-ae47-a977b9bd1c27">
-        <img src="cert/CS50SQL.png" width="100%" alt="Programming with Python"/>
+        <img src="cert/CS50P.png" width="100%" alt="Programming with Python"/>
       </a>
       <br/><b>Programming with Python</b>
-      <br/><sub>CS50 Harvard · Dec 2025 · ~300hrs</sub>
-      <br/><a href=""><img src=""/></a>
+      <br/><sub>CS50 Harvard · Dec 2025</sub>
+      <br/><a href="https://cs50.harvard.edu/certificates/e7cc8de9-82c0-49ee-ae47-a977b9bd1c27"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
     </td>
     <td align="center" width="33%">
-      <a href="">
-        <img src="" width="100%" alt="Data Analysis with Python"/>
+      <a href="https://cs50.harvard.edu/certificates/50c75da0-c994-4b15-9205-3f73bb165e05">
+        <img src="cert/CS50x.png" width="100%" alt="Computer Science"/>
       </a>
-      <br/><b>Data Analysis with Python</b>
-      <br/><sub>freeCodeCamp · Dec 2023 · ~300hrs</sub>
-      <br/><a href=""><img src=""/></a>
+      <br/><b>Computer Science</b>
+      <br/><sub>CS50 Harvard · Feb 2026</sub>
+      <br/><a href="https://cs50.harvard.edu/certificates/50c75da0-c994-4b15-9205-3f73bb165e05"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
     </td>
     <td align="center" width="33%">
-      <a href="">
-        <img src="" width="100%" alt="Python 101 for Data Science"/>
+      <a href="https://cs50.harvard.edu/certificates/fdc23826-f427-41f9-8f8b-efd7f43ce443">
+        <img src="cert/CS50SQL.png" width="100%" alt="Python 101 for Data Science"/>
       </a>
-      <br/><b>Python 101 for Data Science</b>
-      <br/><sub>IBM SkillsBuild · Jun 2024</sub>
-      <br/><a href=""><img src=""/></a>
+      <br/><b>Databases with SQL </b>
+      <br/><sub>CS50 Harvard · Feb 2026</sub>
+      <br/><a href="https://cs50.harvard.edu/certificates/fdc23826-f427-41f9-8f8b-efd7f43ce443"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
     </td>
   </tr>
+
 </table>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
