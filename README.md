@@ -87,10 +87,9 @@
 
 ## 🤖 Computer Science (CS50 Harvard)
 
-<div align="left">
-Programming Languages: 
+<div align="center">
+Python • C • SQL • PostgreSQL • SQLite • Flask • Jinja2 • Bootstrap • Git • Linux • Bash • REST APIs • Data Structures & Algorithms
 </div>
-
 
 <table>
   <tr>
@@ -119,9 +118,7 @@ Programming Languages:
       <br/><a href="https://cs50.harvard.edu/certificates/fdc23826-f427-41f9-8f8b-efd7f43ce443"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
     </td>
   </tr>
-
 </table>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2C8DF7&height=120&section=footer&animation=twinkling" width="100%"/>
 
