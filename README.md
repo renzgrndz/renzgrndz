@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=75BDE0&text=Renz%20Fredderick%20Granadozo&fontSize=50&desc=Data%20Engineer%20|%20Electronics%20Engineer%20|%20BMS%20Engineer&descSize=20&fontAlign=50&descAlign=50&descAlignY=67" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=2C8DF7&text=Renz%20Fredderick%20Granadozo&fontSize=50&desc=Data%20Engineer%20|%20Electronics%20Engineer%20|%20BMS%20Engineer&descSize=20&fontAlign=50&descAlign=50&descAlignY=67" width=100%>
 
 <div align="center">
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=2C8DF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Renz%F0%9F%91%8B;Data+Engineer+%7C+Electronics+Engineer;Designing+scalable%2C+reliable+data+platforms;AI%2FML+%7C+Operational+Systems" alt="Typing SVG" /></a>
-
 </div>
 
 ## 💫 About Me:
@@ -81,10 +79,11 @@
   <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=renzgrndz&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/>
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renzgrndz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## ✍️ Quote of the Day!
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=renzgrndz&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -93,7 +92,7 @@
 ## 🤖 Computer Science (CS50 Harvard)
 
 <div align="center">
-> **hehell**
+Programming Languages: 
 </div>
 
 
@@ -144,3 +143,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C8DF7&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=renzgrndz&style=flat-square&color=2C8DF7&label=PROFILE+VIEWS"/>
+</div>
