@@ -93,7 +93,7 @@ Python • C • SQL • PostgreSQL • SQLite • Flask • Jinja2 • Bootstra
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://cs50.harvard.edu/certificates/e7cc8de9-82c0-49ee-ae47-a977b9bd1c27">
         <img src="cert/CS50P.png" width="100%" alt="Programming with Python"/>
       </a>
@@ -101,7 +101,7 @@ Python • C • SQL • PostgreSQL • SQLite • Flask • Jinja2 • Bootstra
       <br/><sub>CS50 Harvard · Dec 2025</sub>
       <br/><a href="https://cs50.harvard.edu/certificates/e7cc8de9-82c0-49ee-ae47-a977b9bd1c27"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://cs50.harvard.edu/certificates/50c75da0-c994-4b15-9205-3f73bb165e05">
         <img src="cert/CS50x.png" width="100%" alt="Computer Science"/>
       </a>
@@ -109,15 +109,26 @@ Python • C • SQL • PostgreSQL • SQLite • Flask • Jinja2 • Bootstra
       <br/><sub>CS50 Harvard · Feb 2026</sub>
       <br/><a href="https://cs50.harvard.edu/certificates/50c75da0-c994-4b15-9205-3f73bb165e05"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://cs50.harvard.edu/certificates/fdc23826-f427-41f9-8f8b-efd7f43ce443">
-        <img src="cert/CS50SQL.png" width="100%" alt="Python 101 for Data Science"/>
+        <img src="cert/CS50SQL.png" width="100%" alt="Databases with SQL"/>
       </a>
       <br/><b>Databases with SQL </b>
       <br/><sub>CS50 Harvard · Feb 2026</sub>
       <br/><a href="https://cs50.harvard.edu/certificates/fdc23826-f427-41f9-8f8b-efd7f43ce443"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
     </td>
+    <td align="center" width="25%">
+        <a href="https://cs50.harvard.edu/certificates/0d12895f-e5b0-4b42-a81c-e96ecb926be6">
+          <img src="cert/CS50C.png" width="100%" alt="Cybersecurity"/>
+        </a>
+        <br/><b>Cybersecurity</b>
+        <br/><sub>CS50 Harvard · April 2026</sub>
+        <br/><a href="https://cs50.harvard.edu/certificates/0d12895f-e5b0-4b42-a81c-e96ecb926be6"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
+    </td>
   </tr>
+  
+    
+  
 </table>
 
 ## 🤖 DataCamp (Data Engineering Pilipinas Scholar)
