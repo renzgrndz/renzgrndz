@@ -127,35 +127,54 @@ Python • C • SQL • PostgreSQL • SQLite • Flask • Jinja2 • Bootstra
     </td>
   </tr>
   
-    
-  
 </table>
 
 ## 🤖 DataCamp (Data Engineering Pilipinas Scholar)
 
 <div align="center">
+CARRER TRACK <br>
 Data Engineer • Data Scientist • Machine Learning • Artificial Intelligence
 </div>
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <a href="https://www.datacamp.com/certificate/DEA0010742671726">
-        <img src="cert/DataCamp_DEA.png" width="100%" alt="Associate Data Engineer"/>
+        <img src="cert/DataCamp_DEA.png" width="50%" alt="Associate Data Engineer"/>
       </a>
       <br/><b>Associate Data Engineer</b>
       <br/><sub>DataCamp · March 2026</sub>
       <br/><a href="https://www.datacamp.com/certificate/DEA0010742671726"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <a href="https://www.datacamp.com/certificate/DE0014901835107">
-        <img src="cert/DataCamp_DE.png" width="100%" alt="Data Engineer"/>
+        <img src="cert/DataCamp_DE.png" width="50%" alt="Data Engineer"/>
       </a>
       <br/><b>Data Engineer</b>
       <br/><sub>DataCamp · April 2026</sub>
       <br/><a href="https://www.datacamp.com/certificate/DE0014901835107"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
     </td>
 </table>
+
+<div align="center">
+SKILL TRACK <br>
+AWS • Snowflake • Airflow • Spark • SQL • Git • Databricks
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.datacamp.com/certificate/DEA0010742671726">
+        <img src="cert/DataCamp_AWS.png" width="25%" alt="AWS Cloud Practitioner (CLF-C02)"/>
+      </a>
+      <br/><b>AWS Cloud Practitioner (CLF-C02)</b>
+      <br/><sub>DataCamp · April 2026</sub>
+      <br/><a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a93b4cab1cc90dc4d843f5a7f339ac7d6e7eadd4"><img src="https://img.shields.io/badge/Verify-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/></a>
+    </td>
+</table>
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2C8DF7&height=120&section=footer&animation=twinkling" width="100%"/>
 
